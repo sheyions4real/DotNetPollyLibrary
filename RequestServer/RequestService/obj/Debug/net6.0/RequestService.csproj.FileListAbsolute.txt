@@ -12,14 +12,7 @@ C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestSe
 C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\RequestService.runtimeconfig.json
 C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\RequestService.dll
 C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\RequestService.pdb
-C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
 C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
-C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Polly.dll
 C:\Users\mattewo\source\repos\Fault Handling and Resilience with Polly\RequestServer\RequestService\bin\Debug\net6.0\Polly.Extensions.Http.dll
