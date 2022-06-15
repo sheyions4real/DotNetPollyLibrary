@@ -1,0 +1,16 @@
+Polly is used for transient faulth handling
+
+used to create policies
+apart from the Retry Policies
+you can use poly for Circuit Breaker, Timmeout and Bulkhead Isolation
+
+
+// List the availible templates
+dotnet new --list
+
+//Create the Response Service project
+dotnet new webapi -n ResponseService
+
+
+// add the poolly package
+dotnet add package Microsoft.Extensions.Http.Polly --version 7.0.0-preview.4.22251.1

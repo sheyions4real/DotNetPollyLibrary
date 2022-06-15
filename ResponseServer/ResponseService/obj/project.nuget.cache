@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rrVtcGgXxF6etiTZgwzBaQAiSErlGgP62oLw6fonvig/pbjfUOM0V2h8zWg7ywEITcSzMuUWH3FcZxLjH37tJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mattewo\\source\\repos\\Fault Handling and Resilience with Polly\\ResponseServer\\ResponseService\\ResponseService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mattewo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mattewo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mattewo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mattewo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mattewo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mattewo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
